@@ -1,0 +1,31 @@
+/* CSS Reset */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#container{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 80vh;
+    width: 50vw;
+    margin-left: 20%;
+    font-size: medium;
+
+}
+h1{
+    margin-left: 10%;
+}
+
+#textarea{
+    margin: 2px;
+}
+
+#btn{
+    cursor: pointer;
+    background-color: gray;
+    margin: 2px;
+    border-radius: 2px;
+    padding: 5px;
+
+}
